@@ -1,0 +1,19 @@
+{
+  "name": "metaverse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss" : "sass scss/main.scss css/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  },
+  "devDependencies": {
+    "sass": "^1.89.2"
+  }
+}
